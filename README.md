@@ -1,5 +1,5 @@
-# AltisNewLife-Private 2014-2017
-Version en cours, mix des v3.1.4/4.x/5.x de Tonic & AsYetUntitled [sous extDB3/Debian8]
+# AltisNewLife V4 -Private (2014-2017)
+Version en cours, mix des v3.x/4.x/5.x de Tonic & AsYetUntitled [sous extDB3/Debian8]
 
 
 EVENEMENTS AUTO :
