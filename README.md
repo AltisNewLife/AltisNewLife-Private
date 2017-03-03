@@ -168,7 +168,7 @@ ACTIVITÉ ILLICITES
     MARCHAND D'ESCLAVES [-]
     TRAFIQUANT D'ORGANES [-]
 
-LICENCE ENTREPRISE[SOUS WHITELIST]
+LICENCE ENTREPRISE [SOUS WHITELIST]
 
     TRANSPORT
     DÉPANNEUR
@@ -179,13 +179,13 @@ LICENCE ENTREPRISE[SOUS WHITELIST]
     JOURNALISTE
     CONVOYEUR DE FONDS BRINKS
 
-LICENCE DE GANG[50000€]
+LICENCE DE GANG [50000€]
 
     Gérer vos membres
     Gérer l'argent du gang
     Marqueurs de position
 
-LICENCE REBELLE[500000€]
+LICENCE REBELLE [500000€]
 
     Accéder à la ville rebelle
     Nouveaux véhicules
@@ -199,21 +199,21 @@ LICENCE REVOLUTIONNAIRE [1500000€]
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 	
-LICENCE FAMILLE[SOUS WHITELIST]
+LICENCE FAMILLE [SOUS WHITELIST]
 
     12 bases militaires
     Nouveaux véhicules
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 
-LICENCE MERCENAIRE[SOUS WHITELIST]
+LICENCE MERCENAIRE [SOUS WHITELIST]
 
     2 camps de mercenaires (civil et rebelle)
     Nouveaux véhicules
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 
-DROIT DE PROPRIÉTÉ[7500€]
+DROIT DE PROPRIÉTÉ [7500€]
 
     Acheter des maisons/garages (prix 200000€ à 1000000€)
     Stocker vos armes et votre inventaire
