@@ -1,0 +1,221 @@
+# AltisNewLife-Private 2014-2017
+Version en cours, mix des v3.1.4/4.x/5.x de Tonic & AsYetUntitled [sous extDB3/Debian8]
+
+
+EVENEMENTS AUTO :
+ - Mission convoi de banque
+ - Mission d'assassinat
+ - Loto
+ - AirDrop 
+ - Purge
+ - Laser Quest
+ - Epave d'or
+   
+AJOUT GAMEPLAY
+ - Marché noir
+ - Bourse
+ - Carte d'indentité avec photos
+ - Capture de zone
+ - Fourriere
+ - Campement, tentes, feu de camp
+ - Chasse evoluée
+ - Baillonnage
+ - Sac a patate sur la tete
+ - Fouille des batiments abandonné
+ - Crafting
+ - Météo
+ - Braquage ATM
+ - Esclave
+ - Saut parachute
+ - Torture
+ - Systeme bancaire
+ - 12 bases militaires ready-to-use
+ - Helitreuillage
+ - Pose d'objet Ikea
+ - Nouveau side Gouvernement
+ - Filtre de map
+ - Sauvegarde SMS
+ - Marqueurs action RP
+ - Message BFM Info
+ - Asile de fou
+ - Traceur GPS
+ - Masque a Gaz
+ - Sexe avec callgirl
+ - Bombe de vitesse
+ - Veste explosive
+ - Menottage
+ - Viol
+ - Vol d'organe
+ - Marqueur membre de gang
+ - Braquage station essence
+ - BlackJack
+ - Machine a sous
+ - Boule Quies
+ - Radar de vitesse
+ 
+AMELIORATION
+ - Anti Auto-cliqueur
+ - Notion de douleur intense
+ - Durée Jour/Nuit
+ - Tri inventaire par ordre alphabetique
+ - Reglement a accepter
+ - Utilisation argent du gang
+ - Sauvegarde position civil
+ - Anti CarKill
+ - Animation Joueur
+ - Sauvegarde Auto
+ - Message Alt+F4
+ - Argent dans le HUD
+ - S'asseoir 
+ - Joueur cagoulé
+ - Blocage touche
+ - Icones pour les objets
+ - Batterie de telephone 
+ - Systeme ranger/sortir arme
+ - Grenade Flash
+ - Telephone avec la Radio
+ - Message et musique d'intro
+ - Compte a rebours deco
+ - Barre de status 
+ - Distance des medecins
+ - Utilisation des drogues
+ - Coma
+ - Passage a l'euro
+ - Champs de ressources aléatoire a chaque restart 
+ 
+GENDARME:
+ - 12 grades
+ - Slot Gendarme avec caméra GO PRO
+ - Nouvelles sirenes + 2 tons
+ - Gign/Sniper/Espion
+ - Demande de renfort
+ - Suppression de licence 
+ - Ajout manuel Wanted List
+ - Systeme EPM
+ - Garde a vue
+ - Temps de prison
+ - Tazer 1 balle
+ - Drone policier
+ - Carte de police
+ - Multi-passe police
+ - Zones illegales cachées
+ - Ouverture auto de barriere
+ - Rammasser arme
+ 
+VEHICULES
+ - Clignotant/Warning
+ - Se rendre depuis son vehicule
+ - Ceinture de sécurité
+ - Assurance
+ - Lumiere interieur
+ - Repeindre ses vehicules
+ - Consommation d'essence évoluée + station
+ - Alarme de voiture
+ - Chargement dans vehicules
+ 
+RESSOURCES
+  - Classique + OPIUM, METH, PLATINE, EPAVES, 4 ALCOOLS, URANIUM, Archeologie sous marine
+ 
+MAISONS
+ - Securité maisons avec camera + alerte video
+ 
+MAPPING
+ - Prison, frontiere, tribunaux, hopitaux, banque, casino, ville rebelle, centre d'entrainement, point de controle...
+ 
++ 100 textures
+
+
+PERMIS
+
+    PERMIS DE CONDUIRE [50€]
+    PERMIS POIDS LOURD [2000€]
+    PERMIS BATEAU [100€]
+    PERMIS PLONGÉE [200€]
+    PERMIS PILOTE [2500€]
+    PERMIS DE PORT D'ARMES [2000€]
+    PERMIS DE CHASSE [1000€]
+
+MÉTIERS
+
+    FORMATION VERRIER [1500€]
+    FORMATION SALIN [1500€]
+    FABRICANT DE CIMENT [800€]
+    FONTE DU CUIVRE [800€]
+    FORGERON [1000€]
+    MINÉRALOGISTE [2500€]
+    RAFFINAGE DU PÉTROLE [3000€]
+    FABRIQUANT DE PLATINE [5000€]
+    ARCHÉOLOGUE [4000€]
+    DIAMANTAIRE [10000€]
+    FONTE DE L'OR [12000€]
+
+ALCOOL
+
+    VITICULTEUR [3000€]
+    DISTILLATEUR [5000€]
+    MISE EN BOUTEILLE [10000€]
+    PRODUCTEUR DE MOONSHINE [10000€]
+
+ACTIVITÉ ILLICITES
+
+    B.E.P CANNABIS MÉDICAL [5000€]
+    B.T.S CANNABIS [5000€]
+    LICENCE EN HÉROÏNE [12000€]
+    DOCTORAT EN COCAÏNE [15000€]
+    CUISINIER METH 97 [50000€]
+    FORMATION URANIUM [200000€]
+    FORMATION OPIUM [20000€]
+    MARCHAND D'ESCLAVES [-]
+    TRAFIQUANT D'ORGANES [-]
+
+LICENCE ENTREPRISE[SOUS WHITELIST]
+
+    TRANSPORT
+    DÉPANNEUR
+    CHASSEUR DE PRIME
+    AVOCAT
+    AUTO-ÉCOLE
+    MARCHAND D'ARMES
+    JOURNALISTE
+    CONVOYEUR DE FONDS BRINKS
+
+LICENCE DE GANG[50000€]
+
+    Gérer vos membres
+    Gérer l'argent du gang
+    Marqueurs de position
+
+LICENCE REBELLE[500000€]
+
+    Accéder à la ville rebelle
+    Nouveaux véhicules
+    Nouvelles armes et tenues
+    Nouveaux objets et équipements
+
+LICENCE REVOLUTIONNAIRE [1500000€]
+
+    Accéder à la ville révolutionnaire
+    Nouveaux véhicules
+    Nouvelles armes et tenues
+    Nouveaux objets et équipements
+	
+LICENCE FAMILLE[SOUS WHITELIST]
+
+    12 bases militaires
+    Nouveaux véhicules
+    Nouvelles armes et tenues
+    Nouveaux objets et équipements
+
+LICENCE MERCENAIRE[SOUS WHITELIST]
+
+    2 camps de mercenaires (civil et rebelle)
+    Nouveaux véhicules
+    Nouvelles armes et tenues
+    Nouveaux objets et équipements
+
+DROIT DE PROPRIÉTÉ[7500€]
+
+    Acheter des maisons/garages (prix 200000€ à 1000000€)
+    Stocker vos armes et votre inventaire
+    Placer de 1 à 4 coffres
+    Sécuriser votre maison
