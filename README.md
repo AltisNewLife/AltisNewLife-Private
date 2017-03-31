@@ -7,7 +7,7 @@ EVENEMENTS AUTO :
  - Mission d'assassinat
  - Loto
  - AirDrop 
- - Purge
+ - Purge 
  - Laser Quest
  - Epave d'or
    
@@ -21,18 +21,17 @@ AJOUT GAMEPLAY
  - Chasse evoluée
  - Baillonnage
  - Sac a patate sur la tete
- - Fouille des batiments abandonné
+ - Fouille des batiments abandonnés
  - Crafting
  - Météo
  - Braquage ATM
- - Esclave
+ - Esclavage
  - Saut parachute
  - Torture
- - Systeme bancaire
+ - Systeme bancaire (CB, CODE PIN...)
  - 12 bases militaires ready-to-use
  - Helitreuillage
  - Pose d'objet Ikea
- - Nouveau side Gouvernement
  - Filtre de map
  - Sauvegarde SMS
  - Marqueurs action RP
@@ -51,26 +50,30 @@ AJOUT GAMEPLAY
  - BlackJack
  - Machine a sous
  - Boule Quies
- - Radar de vitesse
- 
-AMELIORATION
- - Anti Auto-cliqueur
+ - Radar de vitesse 
+ - Utilisation des drogues
+ - Coma
  - Notion de douleur intense
- - Durée Jour/Nuit
- - Tri inventaire par ordre alphabetique
  - Reglement a accepter
- - Utilisation argent du gang
- - Sauvegarde position civil
- - Anti CarKill
  - Animation Joueur
+ - Geste de la main
+ - Passage a l'euro
+ - Champs de ressources aléatoire a chaque restart 
+ - S'asseoir 
+ - Batterie de telephone 
+ - Anti Auto-cliqueur
+ - Durée Jour/Nuit modifié
+ - Tri inventaire par ordre alphabetique
+ - Utilisation argent du gang
+ - Sauvegarde position pour tous les side
+ - Argent liquide et compte en banque par side
+ - Anti CarKill
  - Sauvegarde Auto
  - Message Alt+F4
  - Argent dans le HUD
- - S'asseoir 
  - Joueur cagoulé
  - Blocage touche
  - Icones pour les objets
- - Batterie de telephone 
  - Systeme ranger/sortir arme
  - Grenade Flash
  - Telephone avec la Radio
@@ -78,12 +81,26 @@ AMELIORATION
  - Compte a rebours deco
  - Barre de status 
  - Distance des medecins
- - Utilisation des drogues
- - Coma
- - Passage a l'euro
- - Champs de ressources aléatoire a chaque restart 
+ - DÉPANNEUR
+ - CHASSEUR DE PRIME
+ - MARCHAND D'ARMES
+ - CONVOYEUR DE FONDS BRINKS
+
+OPTIMISATION :
+ - Passage a extDB3
+ - Correction des erreurs de syntax
+ - Suppression des fonctions KRON
+ - Migration de fonction coté client
+ - Plus de BIS_fnc_param
+ - Optimisation des tables et requetes SQL
+ - Suppression de condition inutile ou useless
+ - Changement du fonctionnement du setupAction
+ - RemoteExec a la place des life_fnc_MP
+ - Utilisation des nouvelles fonctions ARMA (cf loadgear, !=; 
+ - Opti du mission.sqm et des objets utilisés
+ - Utilisation du arma3server performance
  
-GENDARME:
+GENDARME 
  - 12 grades
  - Slot Gendarme avec caméra GO PRO
  - Nouvelles sirenes + 2 tons
@@ -97,10 +114,10 @@ GENDARME:
  - Tazer 1 balle
  - Drone policier
  - Carte de police
- - Multi-passe police
+ - Multi-passe
  - Zones illegales cachées
  - Ouverture auto de barriere
- - Rammasser arme
+ - Rammasser arme et objet
  
 VEHICULES
  - Clignotant/Warning
@@ -121,12 +138,11 @@ MAISONS
  
 MAPPING
  - Prison, frontiere, tribunaux, hopitaux, banque, casino, ville rebelle, centre d'entrainement, point de controle...
- 
-+ 100 textures
+
+ + 100 textures (47 civils; 31 west; 18 Med...)
 
 
 PERMIS
-
     PERMIS DE CONDUIRE [50€]
     PERMIS POIDS LOURD [2000€]
     PERMIS BATEAU [100€]
@@ -136,7 +152,6 @@ PERMIS
     PERMIS DE CHASSE [1000€]
 
 MÉTIERS
-
     FORMATION VERRIER [1500€]
     FORMATION SALIN [1500€]
     FABRICANT DE CIMENT [800€]
@@ -150,14 +165,12 @@ MÉTIERS
     FONTE DE L'OR [12000€]
 
 ALCOOL
-
     VITICULTEUR [3000€]
     DISTILLATEUR [5000€]
     MISE EN BOUTEILLE [10000€]
     PRODUCTEUR DE MOONSHINE [10000€]
 
 ACTIVITÉ ILLICITES
-
     B.E.P CANNABIS MÉDICAL [5000€]
     B.T.S CANNABIS [5000€]
     LICENCE EN HÉROÏNE [12000€]
@@ -169,7 +182,6 @@ ACTIVITÉ ILLICITES
     TRAFIQUANT D'ORGANES [-]
 
 LICENCE ENTREPRISE [SOUS WHITELIST]
-
     TRANSPORT
     DÉPANNEUR
     CHASSEUR DE PRIME
@@ -180,42 +192,36 @@ LICENCE ENTREPRISE [SOUS WHITELIST]
     CONVOYEUR DE FONDS BRINKS
 
 LICENCE DE GANG [50000€]
-
     Gérer vos membres
     Gérer l'argent du gang
     Marqueurs de position
 
 LICENCE REBELLE [500000€]
-
     Accéder à la ville rebelle
     Nouveaux véhicules
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 
 LICENCE REVOLUTIONNAIRE [1500000€]
-
     Accéder à la ville révolutionnaire
     Nouveaux véhicules
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 	
 LICENCE FAMILLE [SOUS WHITELIST]
-
     12 bases militaires
     Nouveaux véhicules
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 
 LICENCE MERCENAIRE [SOUS WHITELIST]
-
     2 camps de mercenaires (civil et rebelle)
     Nouveaux véhicules
     Nouvelles armes et tenues
     Nouveaux objets et équipements
 
-DROIT DE PROPRIÉTÉ [7500€]
-
+DROIT DE PROPRIÉTÉ [75000€]
     Acheter des maisons/garages (prix 200000€ à 1000000€)
     Stocker vos armes et votre inventaire
     Placer de 1 à 4 coffres
-    Sécuriser votre maison
+    Sécuriser votre maison avec des alarmes et caméras
