@@ -14,7 +14,8 @@ EVENEMENTS AUTO :
 AJOUT GAMEPLAY
  - Marché noir
  - Bourse
- - Carte d'indentité avec photos
+ - Carte d'identité avec photos
+ - Systeme d'Experience + Atouts
  - Capture de zone
  - Fourriere
  - Campement, tentes, feu de camp
@@ -98,7 +99,7 @@ OPTIMISATION :
  - RemoteExec a la place des life_fnc_MP
  - Utilisation des nouvelles fonctions ARMA (cf loadgear, !=; 
  - Opti du mission.sqm et des objets utilisés
- - Utilisation du arma3server performance
+ - Utilisation arma3server performance
  
 GENDARME 
  - 12 grades
