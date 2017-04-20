@@ -19,6 +19,7 @@ AJOUT GAMEPLAY
  - Fourriere
  - Campement, tentes, feu de camp
  - Chasse evoluée
+ - Systeme de dépôt de plainte
  - Baillonnage
  - Sac a patate sur la tete
  - Fouille des batiments abandonnés
@@ -128,13 +129,11 @@ OPTIMISATION :
  - Optimisation du mission.sqm et des objets utilisés
  - Utilisation d'arma3server performance
  
- 
 RESSOURCES
   - Classique + OPIUM, METH, PLATINE, EPAVES, 4 ALCOOLS, URANIUM, Archeologie sous marine
  
 MAPPING
  - Prison, frontiere, tribunaux, hopitaux, banque, casino, ville rebelle, centre d'entrainement, point de controle...
-
  + 100 textures (47 civils, 31 gendarmes, 18 Medecins...)
 
 PERMIS
