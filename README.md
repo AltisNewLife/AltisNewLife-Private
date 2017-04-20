@@ -82,7 +82,7 @@ AJOUT GAMEPLAY
  - Compte a rebours deco
  - Barre de status 
  - Distance des medecins
- - Raquette des Dealers
+ - Raquet des Dealers
  - 12 grades gendarmes avec tenues
  - Slot Gendarme avec caméra GO PRO
  - Nouvelles sirenes + 2 tons
@@ -128,13 +128,15 @@ OPTIMISATION :
  - Utilisation des nouvelles fonctions ARMA (ex: loadgear, isEqualTo...) 
  - Optimisation du mission.sqm et des objets utilisés
  - Utilisation d'arma3server performance
+ - Otpimisation des images et des sons
+ ...
  
 RESSOURCES
   - Classique + OPIUM, METH, PLATINE, EPAVES, 4 ALCOOLS, URANIUM, Archeologie sous marine
  
 MAPPING
  - Prison, frontiere, tribunaux, hopitaux, banque, casino, ville rebelle, centre d'entrainement, point de controle...
- + 100 textures (47 civils, 31 gendarmes, 18 Medecins...)
+ + 100 textures optimisées (47 civils, 31 west, 18 medics...) < 20 Mo
 
 PERMIS
  - PERMIS DE CONDUIRE [50€]
